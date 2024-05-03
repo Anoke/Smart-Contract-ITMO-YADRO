@@ -1,0 +1,5 @@
+name: FightClu
+supportedstandards: []
+events:
+permissions:
+    - methods: '*'

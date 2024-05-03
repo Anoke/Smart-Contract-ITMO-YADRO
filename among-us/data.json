@@ -1,0 +1,42 @@
+{
+  "store": {
+    "item": [
+      {
+        "id": 0,
+        "category": "Headgear",
+        "title": "Bucket Hat",
+        "price": 4
+      },
+      {
+        "id": 1,
+        "category": "Headgear",
+        "title": "Fugu Bell Hat",
+        "price": 1700
+      },
+      {
+        "id": 2,
+        "category": "Clothing",
+        "title": "Lumberjack Shirt",
+        "price": 800
+      },
+      {
+        "id": 3,
+        "category": "Clothing",
+        "title": "Pink Hoodie",
+        "price": 3400
+      },
+      {
+        "id": 4,
+        "category": "Shoes",
+        "title": "Cyan Trainers",
+        "price": 700
+      },
+      {
+        "id": 5,
+        "category": "Shoes",
+        "title": "Red Hi-Tops",
+        "price": 1800
+      }
+    ]
+  }
+}
